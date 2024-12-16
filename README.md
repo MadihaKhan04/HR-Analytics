@@ -7,27 +7,27 @@ This project involves creating an HR Analytics Dashboard using a dataset from a 
 The dataset contains anonymized HR data, including employee demographics, job roles, education, salaries, and attrition information
 
 # Key Features and Insights
-# Employee Overview:
+- Employee Overview:
 Total employees, attrition count, attrition rate, average age, average salary and average years at the company.
 
-# Attrition Analysis:
+- Attrition Analysis:
 Attrition trends by:
 Education, Salary Slab, Age, Job Role, Gender
   
-# Employee Satisfaction:
+- Employee Satisfaction:
 Job satisfaction rates across various job roles.
 
-# Interactive Filtering:
+- Interactive Filtering:
 Filters for Department and Education Field to allow a deeper dive into the data.
 
 # Tools and Techniques
-# Data Processing:
+- Data Processing:
 Data cleaning and preparation in Power BI.
 
-# Visualization:
+- Visualization:
 Various Power BI visualizations such as bar charts, stacked column charts, pie charts, and KPI cards.
 
-# DAX:
+- DAX:
 Custom DAX measures for KPIs like attrition rate, salary slabs, and average metrics.
 
 # Outcomes
