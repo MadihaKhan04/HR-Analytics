@@ -1,5 +1,4 @@
 # HR-Analytics
-This project involves creating an HR Analytics Dashboard using a dataset from a specific company. The goal is to derive meaningful insights about the organization's workforce, with a focus on attrition and employee-related metrics
 
 # Project Overview
 This project involves creating an HR Analytics Dashboard using a dataset from a specific company. The goal is to derive meaningful insights about the organization's workforce, with a focus on attrition and employee-related metrics. The dashboard was developed in Power BI and showcases key HR metrics through interactive and visually appealing charts and graphs.
